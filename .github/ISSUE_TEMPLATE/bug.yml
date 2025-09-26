@@ -4,6 +4,7 @@ labels: [bug]
 body:
   - type: markdown
     attributes:
+    
       value: |
         Remember: Omarchy is an open source gift, not a product you bought from a vendor
 
