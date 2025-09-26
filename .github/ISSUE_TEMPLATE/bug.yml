@@ -17,6 +17,7 @@ body:
       required: true
 
   - type: textarea
+  
     id: steps
     attributes:
       label: What's wrong?
